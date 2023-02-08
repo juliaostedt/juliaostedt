@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @juliaostedt🎈 I'm an aspiring frontend developer with a background in administration 📅<br><br>🍁 This fall I'm attending Technigo's bootcamp to learn how to code 👩‍💻<br><br>📫 How to reach me: julia.ostedt@gmail.com or check out my portfolio 👉 https://julia-ostedt-portfolio.netlify.app/
+👋 Hi, I’m @juliaostedt🎈 I'm a frontend developer with a background in administration 📅<br><br>🍁 Fall of 2022 I attended Technigo's web development bootcamp to learn how to code 👩‍💻<br><br>📫 How to reach me: julia.ostedt@gmail.com or check out my portfolio 👉 https://julia-ostedt-portfolio.netlify.app/
 
 
 ## 🌐 Socials:
